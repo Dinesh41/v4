@@ -160,7 +160,7 @@ const Nav = ({ isHome }) => {
   const Logo = <div className="logo" tabIndex="-1"></div>;
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a className="resume-button" href="/v4/resume.pdf" target="_blank" rel="noopener noreferrer">
       Resume
     </a>
   );
