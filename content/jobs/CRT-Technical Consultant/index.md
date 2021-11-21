@@ -1,8 +1,9 @@
 ---
+date: '2021-01-01'
 title: 'Technical Consultant'
 company: 'Coderight Technologies'
 location: 'Bangalore, Karnataka'
-range: '01/2021 - 06/2021'
+range: 'January - June 2021'
 url: 'https://coderighttechnologies.com'
 ---
 

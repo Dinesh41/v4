@@ -1,10 +1,12 @@
 ---
+date: '2019-12-01'
 title: 'Mobile Developer'
 company: 'Coderight Technologies'
 location: 'Bangalore, Karnataka'
-range: '12/2019 - 12/2020'
+range: 'December 2019 - December 2020'
 url: 'https://coderighttechnologies.com'
 ---
 
-- Managed Technical Team.
-- Gave technical support to production issue of live projects.
+- Developed hybrid mobile app using flutter, firebase and laravel.
+- Privately distributed mobile app in Apple Store and Play Store.
+- Developed websites using Vue JS and Laravel.

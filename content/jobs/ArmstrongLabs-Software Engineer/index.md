@@ -1,8 +1,9 @@
 ---
+date: '2018-10-01'
 title: 'Software Engineer'
 company: 'Armstrong Labs'
 location: 'Bangalore, Karnataka'
-range: '10/2018 - 11/2019'
+range: 'October 2018 - November 2019'
 url: 'https://www.armstrongltd.com/'
 ---
 

@@ -1,8 +1,9 @@
 ---
+date: '2018-07-01'
 title: 'Trainee Software Engineer'
 company: 'Armstrong Labs'
 location: 'Bangalore, Karnataka'
-range: '07/2018 - 09/2018'
+range: 'July - September 2018'
 url: 'https://www.armstrongltd.com/'
 ---
 

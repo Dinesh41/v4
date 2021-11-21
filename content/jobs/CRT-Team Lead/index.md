@@ -1,8 +1,9 @@
 ---
+date: '2021-07-01'
 title: 'Team Lead'
 company: 'Coderight Technologies'
 location: 'Bangalore, Karnataka'
-range: '07/2021 - 11/2021'
+range: 'July - November 2021'
 url: 'https://coderighttechnologies.com'
 ---
 
