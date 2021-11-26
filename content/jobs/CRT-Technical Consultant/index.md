@@ -8,4 +8,4 @@ url: 'https://coderighttechnologies.com'
 ---
 
 - Gave technical support to all projects by doing R & D.
-- Developed websites using Node JS and Angular.
+- Developed websites using Vue JS.
