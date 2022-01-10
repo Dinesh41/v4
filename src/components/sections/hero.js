@@ -65,9 +65,9 @@ const Hero = () => {
     <>
       <p>
         A Programmer who can code to build website and mobile apps. Currently, I’m focused on
-        building industrial softwares at{' '}
-        <a href="https://coderighttechnologies.com" target="_blank" rel="noreferrer">
-          Coderight
+        building applications at{' '}
+        <a href="https://winwire.com" target="_blank" rel="noreferrer">
+          WinWire Technologies
         </a>
         .
       </p>
