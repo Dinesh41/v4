@@ -126,7 +126,22 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Javascript', 'Dart', 'Flutter', 'Vue 2', 'Php', 'Laravel'];
+  const skills = [
+    'VueJS',
+    'Typescript',
+    'Javascript',
+    'html',
+    'css',
+    'Flutter',
+    'Dart',
+    'Laravel',
+    'Php',
+    'Native Android App Development',
+    'Java',
+    'SQL',
+    '.NET',
+    'c#',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,7 +151,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Programmer with 3.5 years experience in developing software for industries. Focused to
+              Programmer with 5+ years experience in developing software for industries. Focused to
               solve real time problem by providing digital solutions.
             </p>
             <p>Here are a few technologies I’ve been working with recently:</p>

@@ -160,7 +160,11 @@ const Nav = ({ isHome }) => {
   const Logo = <div className="logo" tabIndex="-1"></div>;
 
   const ResumeLink = (
-    <a className="resume-button" href="/v4/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a
+      className="resume-button"
+      href="https://drive.google.com/file/d/1UsOadk7y69p5GDG-3YJZdxhOErTk4Gus/view?usp=sharing"
+      target="_blank"
+      rel="noopener noreferrer">
       Resume
     </a>
   );

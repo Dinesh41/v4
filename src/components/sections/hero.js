@@ -59,22 +59,38 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Dinesh.</h2>;
-  const three = <h3 className="big-heading">I code to build websites and mobile apps.</h3>;
+  const two = <h2 className="big-heading">Dinesh</h2>;
+  const three = <h3 className="big-heading">I code to build websites, mobile apps, REST APIs.</h3>;
   const four = (
     <>
       <p>
-        A Programmer who can code to build website and mobile apps. Currently, I’m focused on
-        building applications at{' '}
+        Currently, I’m focused on building softwares at{' '}
         <a href="https://winwire.com" target="_blank" rel="noreferrer">
           WinWire Technologies
         </a>
-        .
+        . Microsoft certified on{' '}
+        <a
+          href="https://www.credly.com/badges/0b91dac9-d241-480a-9210-9c80c1ad6256"
+          target="_blank"
+          rel="noreferrer">
+          Azure Fundamentals
+        </a>{' '}
+        and{' '}
+        <a
+          href="https://www.credly.com/badges/85f0d9c0-f8ac-4de9-8818-e7bcecb20414/"
+          target="_blank"
+          rel="noreferrer">
+          Azure AI Fundamentals
+        </a>
       </p>
     </>
   );
   const five = (
-    <a className="email-link" href="/v4/resume.pdf" target="_blank" rel="noreferrer">
+    <a
+      className="email-link"
+      href="https://drive.google.com/file/d/1UsOadk7y69p5GDG-3YJZdxhOErTk4Gus/view?usp=sharing"
+      target="_blank"
+      rel="noreferrer">
       Download Resume
     </a>
   );
